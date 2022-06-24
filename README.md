@@ -141,7 +141,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - Commit Conventional: **[Commitlint](https://github.com/conventional-changelog/commitlint)**
 - Teste de API: **[Insomnia](https://insomnia.rest/)**
 - Ícones: **[Feather Icons](https://feathericons.com/)**, **[Font Awesome](https://fontawesome.com/)**
-- Fontes: **[Ubuntu](https://fonts.google.com/specimen/Ubuntu)**, **[Roboto](https://fonts.google.com/specimen/Roboto)**
 
 ---
 
