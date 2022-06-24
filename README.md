@@ -29,7 +29,7 @@
 
 ## 💻 Sobre o projeto
 
-♻️ Get A Pet - é uma forma de conectar pessoas que querem adotar um pet e pessoas que estão fazendo doações de animais.
+😺 Get A Pet - é uma forma de conectar pessoas que querem adotar um pet e pessoas que estão fazendo doações de animais.
 
 Projeto desenvolvido durante o curso Node.js do Zero a Maestria com diversos Projetos oferecida pela [Udemy - Matheus Battisti](https://www.udemy.com/course/nodejs-do-zero-a-maestria-com-diversos-projetos/).
 O curso é rico em detalhes e projetos.
@@ -120,7 +120,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - **[Event](https://github.com/browserify/events#readme)**
 - **[React-icons](https://react-icons.github.io/react-icons/)**
 
-> Veja o arquivo [package.json](https://github.com/tgmarinho/README-ecoleta/blob/master/web/package.json)
+> Veja o arquivo [package.json](https://github.com/BrunoColpani/Get_A_Pet/blob/main/front/package.json)
 
 #### [](https://github.com/tgmarinho/Ecoleta#server-nodejs--typescript)**Server** ([NodeJS](https://nodejs.org/en/))
 
@@ -132,7 +132,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - **[Multer](https://github.com/expressjs/multer)**
 - **[mongoose](https://mongoosejs.com/)**
 
-> Veja o arquivo [package.json](https://github.com/tgmarinho/README-ecoleta/blob/master/server/package.json)
+> Veja o arquivo [package.json](https://github.com/BrunoColpani/Get_A_Pet/blob/main/backend/package.json)
 
 #### [](https://github.com/tgmarinho/Ecoleta#utilit%C3%A1rios)**Utilitários**
 
@@ -168,4 +168,4 @@ Feito com ❤️ por Bruno Colpani 👋🏽 [Entre em contato!](https://www.link
 
 ## Versões do README
 
-[Português 🇧🇷](./README.md) | [Inglês sem emojis 🇺🇸](./README-en.md) | [Portugues sem logo 🇧🇷](./README-sem-logo.md)
+[Inglês en](./README-EN.md)
